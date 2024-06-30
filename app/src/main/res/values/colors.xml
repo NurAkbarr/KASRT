@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color> <!-- Tambahkan definisi warna purple_500 -->
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color> <!-- Tambahkan definisi warna teal_700 -->
+    <color name="blue">#FF6200EE</color>
+    <color name="green">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primaryColor">#6200EE</color>
+    <color name="primaryDarkColor">#3700B3</color>
+    <color name="onPrimaryColor">#FFFFFF</color>
+    <color name="secondaryColor">#03DAC5</color>
+    <color name="secondaryDarkColor">#018786</color>
+    <color name="onSecondaryColor">#000000</color>
+    <color name="windowBackgroundColor">#FFFFFF</color>
+    <color name="textColor">#000000</color>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorAccent">#FF5722</color>
+    <color name="colorWA">#29A71A</color>
+</resources>
