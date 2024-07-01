@@ -79,8 +79,8 @@ dependencies {
 
 **Link:**
 
-* Youtube: [https://youtu.be/]()
-* Laporan PDF: [https://drive.google.com/]()
+* Youtube: [https://youtu.be/](https://youtu.be/myy0vnBpCe0)
+* Laporan PDF: [https://drive.google.com/](https://drive.google.com/drive/folders/16m9sGE4ubI94ydb74AqVxEJUlU1rVo9g?usp=sharing)
 
 **Referensi:**
 
